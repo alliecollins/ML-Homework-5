@@ -22,6 +22,8 @@ from sklearn.utils.fixes import signature
 from sklearn.metrics import average_precision_score
 from sklearn.dummy import DummyClassifier
 
+
+print("quick test")
 ###### STEP: READ IN DATA ######
 
 def read_file(filename):

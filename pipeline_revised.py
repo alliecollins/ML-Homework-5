@@ -21,9 +21,9 @@ from sklearn.metrics import precision_recall_curve
 from sklearn.utils.fixes import signature
 from sklearn.metrics import average_precision_score
 from sklearn.dummy import DummyClassifier
-
-
-print("quick test")
+ 
+    
+print("am i even doing anything with this file.........")
 ###### STEP: READ IN DATA ######
 
 def read_file(filename):
@@ -31,7 +31,8 @@ def read_file(filename):
 	Reads in csv file and converts to pandas dataframe
 	'''
 	df = pd.read_csv(filename)
-	return df
+	print("file!")
+# 	return df
 
 ###### STEP: DISPLAY SUMMARY STATS #######
 

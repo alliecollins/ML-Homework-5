@@ -183,7 +183,7 @@ def run_models(x_train, x_test, y_train, y_test,models_to_run='all'):
                 roc_auc_score(y_test, pred_probs)]
 
                 ml_helper_functions.plot_precision_recall_n(
-                    y_test, pred_probs, models_to_run[index]+'_'+str(model_num), 'save')
+                    y_test, pred_probs, 'graphs/'+models_to_run[index]+'_'+str(model_num), 'save')
         model_num = 0
 
     return results_df

@@ -1,0 +1,99 @@
+,Features,Importance
+0,total_price_including_optional_support,0.5246483303820058
+2,eligible_double_your_impact_match_binary,0.07204162157964257
+1,students_reached,0.05549428181533102
+41,school_metro_rural,0.030475057701068398
+5,poverty_level_highest poverty,0.026869565258981588
+12,resource_type_Trips,0.017042311689579787
+45,teacher_prefix_Mrs.,0.015634338311901183
+11,resource_type_Technology,0.014798964025009877
+43,school_metro_urban,0.01365636862156085
+29,primary_focus_subject_Literacy,0.01113971036754776
+22,primary_focus_subject_Environmental Science,0.009530813789274397
+8,resource_type_Books,0.008975460300118655
+87,school_state_SC,0.008648161646319113
+74,school_state_NC,0.0082688979414055
+14,primary_focus_subject_Applied Sciences,0.008127102752915399
+3,school_charter_binary,0.007983089990971786
+83,school_state_OK,0.007825998391635499
+30,primary_focus_subject_Literature & Writing,0.007258373801163926
+4,poverty_level_high poverty,0.00694106237118387
+81,school_state_NY,0.006553761704254897
+56,school_state_FL,0.0063409017379680134
+91,school_state_UT,0.005977703246458038
+42,school_metro_suburban,0.005933255970656082
+61,school_state_IL,0.005637241901517484
+89,school_state_TN,0.005342373757586362
+51,school_state_CA,0.00511877500865293
+90,school_state_TX,0.005116667271843578
+15,primary_focus_subject_Character Education,0.005039413357087728
+71,school_state_MO,0.004924811732823019
+10,resource_type_Supplies,0.004716683583063493
+17,primary_focus_subject_College & Career Prep,0.004687658314753072
+65,school_state_LA,0.004078626891653877
+72,school_state_MS,0.0040636546487755176
+82,school_state_OH,0.003988209317853086
+6,poverty_level_low poverty,0.003815187165802237
+34,primary_focus_subject_Other,0.0034181195242756032
+9,resource_type_Other,0.0033453343144077895
+7,poverty_level_moderate poverty,0.0028955154562619943
+19,primary_focus_subject_ESL,0.0028550879879329764
+66,school_state_MA,0.0027056171618147526
+80,school_state_NV,0.002368113298386096
+78,school_state_NJ,0.002292749325083626
+48,school_state_AL,0.002251019147542644
+84,school_state_OR,0.0020958904945111143
+31,primary_focus_subject_Mathematics,0.0020793434709981107
+44,teacher_prefix_Mr.,0.0019741628593539615
+37,primary_focus_subject_Social Sciences,0.0019691863833633683
+64,school_state_KY,0.001943620932195718
+28,primary_focus_subject_History & Geography,0.0018516853415388862
+57,school_state_GA,0.0016542336384850701
+53,school_state_CT,0.0016373480778053594
+40,primary_focus_subject_Visual Arts,0.0016199365849357784
+46,teacher_prefix_Ms.,0.001440461067083803
+25,primary_focus_subject_Gym & Fitness,0.0013323579328821283
+38,primary_focus_subject_Special Needs,0.001219290824961029
+50,school_state_AZ,0.0012053002144412333
+92,school_state_VA,0.0011650681254322633
+88,school_state_SD,0.00114583841874356
+20,primary_focus_subject_Early Development,0.0010945311531726093
+85,school_state_PA,0.0010783775431274542
+32,primary_focus_subject_Music,0.0010752519057499767
+95,school_state_WI,0.0009902473716271116
+27,primary_focus_subject_Health & Wellness,0.0009565316589628091
+68,school_state_ME,0.0009297261644819596
+49,school_state_AR,0.0008973368666754122
+63,school_state_KS,0.0008563398154150843
+76,school_state_NE,0.0008392579866669997
+23,primary_focus_subject_Extracurricular,0.0007865567512008112
+54,school_state_DC,0.0007726330333349183
+70,school_state_MN,0.0007364300227414
+39,primary_focus_subject_Sports,0.0007304488308605521
+52,school_state_CO,0.0006988208076161966
+59,school_state_IA,0.0006936080242097172
+36,primary_focus_subject_Performing Arts,0.0006926873061818407
+21,primary_focus_subject_Economics,0.0006647033851311567
+24,primary_focus_subject_Foreign Languages,0.0006043150979060274
+60,school_state_ID,0.0005221497043955023
+86,school_state_RI,0.00038419741805978814
+16,primary_focus_subject_Civics & Government,0.0003676279750033149
+94,school_state_WA,0.00023799139681085106
+79,school_state_NM,0.00023051284986538964
+18,primary_focus_subject_Community Service,0.0
+93,school_state_VT,0.0
+13,resource_type_Visitors,0.0
+96,school_state_WV,0.0
+26,primary_focus_subject_Health & Life Science,0.0
+47,school_state_AK,0.0
+33,primary_focus_subject_Nutrition,0.0
+35,primary_focus_subject_Parent Involvement,0.0
+62,school_state_IN,0.0
+77,school_state_NH,0.0
+75,school_state_ND,0.0
+55,school_state_DE,0.0
+73,school_state_MT,0.0
+58,school_state_HI,0.0
+69,school_state_MI,0.0
+67,school_state_MD,0.0
+97,school_state_WY,0.0

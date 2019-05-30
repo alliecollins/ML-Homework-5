@@ -1,0 +1,8 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="total_price_including_optional_support <= 412.385\ngini = 0.41\nsamples = 80726\nvalue = [57487, 23239]"] ;
+1 [label="gini = 0.285\nsamples = 28630\nvalue = [23707, 4923]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.456\nsamples = 52096\nvalue = [33780, 18316]"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
